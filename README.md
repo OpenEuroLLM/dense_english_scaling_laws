@@ -25,7 +25,6 @@ Key analyses include:
 * **Optimal hyperparameter estimation**
 * **Learning-rate and batch-size scaling laws**
 * **Compute-optimal scaling**
-* **Downstream evaluations**
 
 The main notebooks and scripts are:
 
